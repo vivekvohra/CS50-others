@@ -1,6 +1,5 @@
 # Trivia
 <P>A webpage that lets users answer trivia questions.</P>
-<P>WEBPAGE: https://vivekvohra.github.io/trivia/</P>
 <h2>Description</h2>
 
 Immerse yourself in the fascinating world of animals with Animal Trivia, a captivating webpage that puts your knowledge to the test. Step into the virtual trivia arena and challenge yourself with a wide range of intriguing questions about the animal kingdom. Engage in a thrilling quest for knowledge as you answer trivia questions and discover fascinating facts about the animal world. Whether you're a nature enthusiast, a trivia lover, or simply looking to expand your knowledge, AnimalTrivia is the perfect destination to satisfy your curiosity and uncover the wonders of the animal kingdom.
