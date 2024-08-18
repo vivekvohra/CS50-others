@@ -1,4 +1,4 @@
-![recovered_image](https://github.com/vivekvohra/recover/assets/112391833/46dae4dc-f57b-4461-a2ad-b1d1ce3f7a5e)
+![recovered_image](recovered_image.png)
 
 **GOAL**
 - To write a program in C that can recover JPEG images from a forensic file.
